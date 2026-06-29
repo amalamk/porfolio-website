@@ -1,4 +1,4 @@
-# 🌐 Portfolio Website - Amala M K
+# 🌐 Portfolio Website 
 
 This is my personal responsive portfolio website built using **HTML, CSS, and JavaScript**, hosted using **GitHub Pages**.
 
